@@ -15,17 +15,15 @@ function App() {
             <div className="w-12">
               <ReactLogo className="fill-white" />
             </div>
-            <h2 className="text-xl uppercase font-bold">Become a host</h2>
+            <h2 className="text-xl uppercase font-bold">Alondra Carrillo Celis</h2>
             <h1 className="text-6xl font-bold">
-              Host your space, share your world
+              UNIVERSIDAD TECNOLÓGICA DE DURANGO
             </h1>
             <p className="text-lg">
-              The art of hosting is rooted in thoughtful design. Share your
-              unique aesthetic with guests and earn extra income on a schedule
-              that works for you.
+             PROBANDO FORK DE GITHUB
             </p>
             <button className="bg-gradient-to-r from-pink-600 to-orange-600 py-3 px-6 text-lg rounded-md w-48">
-              Try hosting
+              19 JUNIO
             </button>
           </div>
         </div>
