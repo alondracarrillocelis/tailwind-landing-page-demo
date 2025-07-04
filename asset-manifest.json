@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tailwind-landing-page-demo/static/css/main.d135e6cf.css",
+    "main.js": "/tailwind-landing-page-demo/static/js/main.d6a28362.js",
+    "static/js/787.c8ac7851.chunk.js": "/tailwind-landing-page-demo/static/js/787.c8ac7851.chunk.js",
+    "static/media/mountains.jpg": "/tailwind-landing-page-demo/static/media/mountains.c7317ce465b4451e9eb1.jpg",
+    "static/media/airbnb-brands.svg": "/tailwind-landing-page-demo/static/media/airbnb-brands.048182c304f50af8d4fb209a004a4cb4.svg",
+    "index.html": "/tailwind-landing-page-demo/index.html",
+    "main.d135e6cf.css.map": "/tailwind-landing-page-demo/static/css/main.d135e6cf.css.map",
+    "main.d6a28362.js.map": "/tailwind-landing-page-demo/static/js/main.d6a28362.js.map",
+    "787.c8ac7851.chunk.js.map": "/tailwind-landing-page-demo/static/js/787.c8ac7851.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d135e6cf.css",
+    "static/js/main.d6a28362.js"
+  ]
+}
